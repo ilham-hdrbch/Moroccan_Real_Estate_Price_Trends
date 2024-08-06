@@ -28,3 +28,10 @@ In SQL Server, I performed data cleaning and preparation, including:
   
 #### 3. Data Visualization in Power BI
 Using Power BI, I visualized the cleaned and processed data through an interactive dashboard. I created a new column to categorize houses into luxury, mid-range, and economy based on their prices. The dashboard includes various visualizations that enable users to explore and compare house prices based on area, number of rooms, and location. It also allows users to compare house prices across different cities and between the two websites, Maskan.ma and Mubawab.ma. These visualizations provide a comprehensive view of the Moroccan real estate market, offering valuable insights for potential buyers and investors.
+
+
+![Capture d’écran (162)](https://github.com/user-attachments/assets/b6dd6386-16b1-4449-b322-425c23be9641)
+
+![Capture d’écran (163)](https://github.com/user-attachments/assets/a805d676-afa5-402f-8f9e-44e773be0b0e)
+
+
